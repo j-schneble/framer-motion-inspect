@@ -1,5 +1,7 @@
 Created a cursor that inspects and zooms in on text. Simple and just for fun.
 
+Demo: [Jacks Inspect](https://jacks-textinspect.vercel.app)
+
 Usage
 To run this project, first clone the repository:
 
